@@ -6,3 +6,5 @@ i have done more changes .please check it
 Hello all this is avinash
 
 i made some changes . please get latest and go further
+
+i am applying changes directly using git web
